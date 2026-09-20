@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "product_id": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "E035"
+      },
+      "includeForEmbedding": true
+    },
+    "product_type": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Circuit Breaker"
+      },
+      "includeForEmbedding": true
+    },
+    "total_sales": {
+      "value": {
+        "type": "NUMBER",
+        "numberValue": 60600
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

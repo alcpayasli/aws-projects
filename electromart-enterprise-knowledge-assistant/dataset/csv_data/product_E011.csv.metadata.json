@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "product_id": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "E011"
+      },
+      "includeForEmbedding": true
+    },
+    "product_type": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Switch"
+      },
+      "includeForEmbedding": true
+    },
+    "total_sales": {
+      "value": {
+        "type": "NUMBER",
+        "numberValue": 35600
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

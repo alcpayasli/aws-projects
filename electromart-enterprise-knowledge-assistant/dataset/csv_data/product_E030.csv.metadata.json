@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "product_id": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "E030"
+      },
+      "includeForEmbedding": true
+    },
+    "product_type": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Socket"
+      },
+      "includeForEmbedding": true
+    },
+    "total_sales": {
+      "value": {
+        "type": "NUMBER",
+        "numberValue": 28000
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "product_id": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "E005"
+      },
+      "includeForEmbedding": true
+    },
+    "product_type": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Cable"
+      },
+      "includeForEmbedding": true
+    },
+    "total_sales": {
+      "value": {
+        "type": "NUMBER",
+        "numberValue": 128000
+      },
+      "includeForEmbedding": true
+    }
+  }
+}
